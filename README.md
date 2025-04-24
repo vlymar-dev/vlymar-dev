@@ -10,7 +10,8 @@
 
 - Passionate about backend engineering with a focus on performance, reliability, and automation <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Specialized in building fast, scalable bots and APIs using Python, Django, FastAPI, aiogram, and more 🌱
-- **Portfolio Showcase** 💻:
+---
+### Portfolio Showcase 💻:
   - [🛍️ Vinted Tracker Bot | Telegram Bot for Product Monitoring](https://t.me/vinted_trackerbot)
   
     *Bot used by 100+ users to track new listings on [Vinted.com](Vinted.com).*
@@ -20,19 +21,20 @@
     - **Technology Stack**: Python, aiogram, PostgreSQL, Redis, SQLAlchemy, APScheduler, Babel, curl_cffi, Docker
   - [🎮 Hamster Keys Generator | Telegram Game Code Distribution Bot](https://github.com/vlymar-dev/Hamster-code-generator)
   
-  *Bot with 8000+ users (Sep–Nov 2024) for automated game promo code distribution.*
+    *Bot with 8000+ users (Sep–Nov 2024) for automated game promo code distribution.*
      - Asynchronous code generation with proxy support and rate-limiting.
      - Admin tools for user control, referral/achievement systems, and multilingual UI.
      - Donation system via Telegram Stars; session/caching via Redis.
     - **Technology Stack**: Python, aiogram, aiohttp, SQLAlchemy, Redis, PostgreSQL, Alembic, asyncpg, Docker
   - [🧪 Django Online Store | Project](https://github.com/devlymar/django-store-server)
   
-  *Backend service for product listings, order management, and Stripe integration.*
+    *Backend service for product listings, order management, and Stripe integration.*
     - Implements background jobs via Celery and automated deployment via Docker & GitHub Actions.
     - Clean, modular architecture with PostgreSQL and Redis.
     - **Technology Stack**: Python, PostgreSQL, Redis, Celery, Docker-compose, Nginx, Psycopg2-binary, Gunicorn, Stripe, GitHub Actions
     
-- ✉️ Open to collaboration and backend-focused roles.
+---
+✉️ Open to collaboration and backend-focused roles.
 <div id="socials" align="center">
 
 ## Connect with me:
